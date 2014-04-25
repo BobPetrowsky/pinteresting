@@ -3,4 +3,4 @@
 This is the pinteresting sample application for 
 [*One Month Rail*](http://onemonthrails.com)
 
-by Robert Petrowsky
+by Bob Petrowsky
